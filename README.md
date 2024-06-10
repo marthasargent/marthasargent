@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🌱 I’m new to coding and currently learning Python.
 <!--
 **marthasargent/marthasargent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
